@@ -1,5 +1,5 @@
-[] Setup do Postgresql
-[] Seeding do banco
-[] Introdução ao Next.js
-[] Tailwind e Shadcn
-[] Git Hooks
+[x] Setup do Postgresql
+[x] Seeding do banco
+[x] Introdução ao Next.js
+[x] Tailwind e Shadcn
+[x] Git Hooks
